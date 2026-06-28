@@ -1,0 +1,8 @@
+# WC2026 Predictor Updates
+
+## v3 — June 28, 2026
+- Live scores now powered by ESPN (no API key needed)
+- Auto-refresh every 60 seconds during matches
+- Round of 32 schedule with MYT kickoff times
+- Goal and card events feed
+- Live score badge counter

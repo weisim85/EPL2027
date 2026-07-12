@@ -9,3 +9,4 @@
 v4
 v5
 v6
+commit to v1.2 with sweepstake read from app.jsx

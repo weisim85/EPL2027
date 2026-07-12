@@ -3,7 +3,7 @@ import { useState, useEffect, useCallback, useMemo, useRef } from "react";
 // ============================================================
 // BUILD VERSION — bump to bust PWA cache on deploy
 // ============================================================
-const BUILD_VERSION = "epl2027-v1.0";
+const BUILD_VERSION = "epl2027-v1.2";
 
 // ============================================================
 // MAN CITY COLOR THEME
